@@ -1,0 +1,10 @@
+{% extends "navbar.html" %}
+
+{% block content %}
+		<h1>Welcome!</h1>
+		<form action="", method="post">
+			{{ form.hidden_tag() }}
+			<p>{{ form.text }}</p>
+			<p>{{ form.summarize }}</p>
+		</form>
+{% endblock %}
