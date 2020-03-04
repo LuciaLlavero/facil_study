@@ -1,0 +1,31 @@
+The modern definition of artificial intelligence (or AI) is "the study and design of intelligent agents" where an intelligent agent is a system that perceives its environment and takes actions which maximizes its chances of success.
+
+John McCarthy, who coined the term in 1956, defines it as "the science and engineering of making intelligent machines."
+
+Other names for the field have been proposed, such as computational intelligence, synthetic intelligence or computational rationality.
+
+The term artificial intelligence is also used to describe a property of machines or programs: the intelligence that the system demonstrates.
+
+AI research uses tools and insights from many fields, including computer science, psychology, philosophy, neuroscience, cognitive science, linguistics, operations research, economics, control theory, probability, optimization and logic.
+
+AI research also overlaps with tasks such as robotics, control systems, scheduling, data mining, logistics, speech recognition, facial recognition and many others.
+
+Computational intelligence Computational intelligence involves iterative development or learning (e.g., parameter tuning in connectionist systems).
+
+Learning is based on empirical data and is associated with non-symbolic AI, scruffy AI and soft computing.
+
+Subjects in computational intelligence as defined by IEEE Computational Intelligence Society mainly include: Neural networks: trainable systems with very strong pattern recognition capabilities.
+
+Fuzzy systems: techniques for reasoning under uncertainty, have been widely used in modern industrial and consumer product control systems; capable of working with concepts such as 'hot', 'cold', 'warm' and 'boiling'.
+
+Evolutionary computation: applies biologically inspired concepts such as populations, mutation and survival of the fittest to generate increasingly better solutions to the problem.
+
+These methods most notably divide into evolutionary algorithms (e.g., genetic algorithms) and swarm intelligence (e.g., ant algorithms).
+
+With hybrid intelligent systems, attempts are made to combine these two groups.
+
+Expert inference rules can be generated through neural network or production rules from statistical learning such as in ACT-R or CLARION.
+
+It is thought that the human brain uses multiple techniques to both formulate and cross-check results.
+
+Thus, systems integration is seen as promising and perhaps necessary for true AI, especially the integration of symbolic and connectionist models.
